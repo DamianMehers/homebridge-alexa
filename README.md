@@ -1,6 +1,8 @@
 # homebridge-alexa
 
-Expose your [Amazon Echo Smart Home devices](https://www.amazon.com/alexa-smart-home/b?node=13575751011) to Siri and [HomeKit](https://www.apple.com/lae/ios/home/) by using a Raspberry PI to speak commands to a spare Amazon Echo using [Homebridge](https://github.com/nfarina/homebridge).
+Expose your [Amazon Echo Smart Home devices](https://www.amazon.com/alexa-smart-home/b?node=13575751011) to Siri and [HomeKit](https://www.apple.com/lae/ios/home/) by using a Raspberry PI with a speaker to speak commands to a spare Amazon Echo using [Homebridge](https://github.com/nfarina/homebridge).
+
+[This is a demo YouTube video](http://damianblog.com/2017/09/17/homekit-alexa/) and blog post.
 
 First get [Homebridge installed and running on your Raspberry PI](https://github.com/nfarina/homebridge/wiki/Running-HomeBridge-on-a-Raspberry-Pi).  Plug a speaker into the Raspberry PI and position it next to your Amazon Echo.  Ensure your speaker is used for [audio output](https://www.raspberrypi.org/documentation/configuration/audio-config.md).
 
